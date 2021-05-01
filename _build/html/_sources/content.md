@@ -1,5 +1,5 @@
-La mejor universidad del mundo
+Content in Jupyter Book
 =======================
 
-Lo que somos y la universidad que queremos
-
+There are many ways to write content in Jupyter Book. This short section
+covers a few tips for how to do so.

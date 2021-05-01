@@ -1,7 +1,3 @@
-#ACTIVIDAD EXPERIMENTAL N.1
-
-Este en un ejemplo de crear un libro con Jupyter-book
-
 # Markdown Files
 
 Whether you write your book's content in Jupyter Notebooks (`.ipynb`) or
@@ -126,4 +122,4 @@ executed with your default Jupyter kernel, and their outputs will be displayed
 in-line with the rest of your content.
 
 For more information about executing computational content with Jupyter Book,
-see [The MyST-NB documentation](https://myst-nb.readthed
+see [The MyST-NB documentation](https://myst-nb.readthedocs.io/).

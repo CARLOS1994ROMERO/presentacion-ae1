@@ -1,4 +1,7 @@
-Bienvenidos al libro de la UTPL
+Welcome to your Jupyter Book
 ============================
 
-La Universidad Particular de Loja se caracterisca por dar las oportunidades a las personas que creen en la superacio
+This is a small sample book to give you a feel for how book content is
+structured.
+
+Check out the content pages bundled with this sample book to get started.
