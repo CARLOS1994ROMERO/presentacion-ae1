@@ -3,9 +3,10 @@
 #
 - file: intro
 - file: content
+- file: HOJA1
+- file: HOJA2
+- file: HOJA3
   sections:
     - file: markdown
     - file: notebooks
-    - file: HOJA1
-    - file: HOJA2
-    - file: HOJA3
+    
